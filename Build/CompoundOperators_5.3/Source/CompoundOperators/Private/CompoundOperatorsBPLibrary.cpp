@@ -1,4 +1,4 @@
-// Compound Operators Library. by 4eep
+// Copyright 2024 4eeP. All Rights Reserved.
 
 #include "CompoundOperatorsBPLibrary.h"
 

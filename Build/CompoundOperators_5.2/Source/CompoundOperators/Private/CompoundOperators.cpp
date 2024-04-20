@@ -1,4 +1,4 @@
-// Copyright Epic Games, Inc. All Rights Reserved.
+// Copyright 2024 4eeP. All Rights Reserved.
 
 #include "CompoundOperators.h"
 

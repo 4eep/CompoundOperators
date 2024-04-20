@@ -1,0 +1,7 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Development\\CompoundOperators\\Module.CompoundOperators.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\CompoundOperators\\CompoundOperators.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\CompoundOperators\\CompoundOperatorsBPLibrary.cpp.obj"
+	]
+}
